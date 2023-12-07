@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(239, 182, 239);
+    
+}
+.container{
+    border: 2px solid black;
+    margin: 142px 142px;
+    text-align: center;
+    align-items: center;
+    background-image: url(https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvcm00NjdiYXRjaDUtc2NlbmUtdy0wMDItbDBha3pzejYuanBn.jpg);
+}
+img{
+    border-radius: 8px;
+    height: 350px;
+    width: 350px;
+}
